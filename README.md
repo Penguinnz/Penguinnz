@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola
 
 Soy estudiante de Ingeniería Informática en ULACIT Costa Rica.
 
